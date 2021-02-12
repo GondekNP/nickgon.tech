@@ -54,14 +54,28 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Polsky Center Technology Commercialization Office
+        sub_title: Database Consultant
+        caption: December 2020 - Present
+        link: https://polsky.uchicago.edu/tech-commercialization/
         quote: >
           Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Description of role
+    content:
+      - layout: left
+        title: Conservation Metrics, Inc.
+        sub_title: Acoustic Data Analyst
+        caption: June 2017 – June 2020
+        link: http://conservationmetrics.com/
+        quote: >
+          "Conservation Metrics provides automated alternatives to historically labor-intensive wildlife survey efforts, combining cutting-edge remote sensing technology, statistical rigor, and extensive scientific expertise to drive down costs and increase the scale and effectiveness of wildlife metrics."
+        description: | 
+          - Implemented machine learning approaches (convolutional and deep neural networks) to process data from remote detectors; including microphones, cameras, drones, and satellites
+          - Led in ingestion, analysis, and interpretation of data for frequency of target biological signals in R, Matlab, Python using git-based workflow
+          -	Collaborated with global clients to interpret results for initiatives including invasive rat eradication on Hawadax, novel bat detection in Guinea, comparative methodology studies in northern CA, often developing new strategies to cope with unexpected challenges
+          - Managed Unix-based network attached storage system of 200+ terabytes of data
+
   - title: Education
     layout: list
     content:
