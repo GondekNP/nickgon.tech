@@ -56,8 +56,9 @@ content:
       - layout: right
         title: Polsky Center Technology Commercialization Office
         sub_title: Database Consultant
-        caption: Chicago, IL (Remote)
-        caption: December 2020 - Present
+        caption: |
+          Chicago, IL (Remote)
+          December 2020 - Present
         link: https://polsky.uchicago.edu/tech-commercialization/
         quote: >
           Short description of the company (optional)
@@ -68,7 +69,7 @@ content:
         sub_title: Acoustic Data Analyst
         caption: Santa Cruz, CA
         caption: June 2017 – June 2020
-        link: http://conservationmetrics.com/
+        link: conservationmetrics.com
         quote: >
           "Conservation Metrics provides automated alternatives to historically labor-intensive wildlife survey efforts, combining cutting-edge remote sensing technology, statistical rigor, and extensive scientific expertise to drive down costs and increase the scale and effectiveness of wildlife metrics."
         description: | 
@@ -81,7 +82,7 @@ content:
         sub_title: Honors Researcher
         caption: St Paul, MN
         caption: August 2015 – September 2020 
-        link: https://fieberg-lab.cfans.umn.edu/
+        link: fieberg-lab.cfans.umn.edu
         quote: >
           "The Fieberg Lab helps widlife biologists make robust statistical inferences when confronted with a variety of messy data situations."
         description: | 
@@ -93,7 +94,7 @@ content:
         sub_title: Avian Research Technician
         caption: Coconino National Forest, AZ
         caption: May 2015 – August 2015 and May 2016 – August 2016
-        link: https://www.umt.edu/mcwru/MartinLab/TomMartin/Research%20Projects/default.php
+        link: umt.edu/mcwru/MartinLab
         quote: >
           "Dr. Martin researches avian behavior to gain an understanding on the ecology and evolution of phenotypic traits that are important to conservation."
         description: | 
