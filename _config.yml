@@ -56,10 +56,9 @@ content:
       - layout: right
         title: Polsky Center Technology Commercialization Office
         sub_title: Database Consultant
-        caption: |+
-          Chicago, IL (Remote)
-          
-          December 2020 - Present
+        caption: |
+          - Chicago, IL (Remote)
+          - December 2020 - Present
         link: polsky.uchicago.edu/tech-commercialization
         quote: >
           Short description of the company (optional)
