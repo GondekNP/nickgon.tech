@@ -16,7 +16,7 @@ website: nickgon.tech
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: gondek_n
@@ -63,7 +63,7 @@ content:
         description: |
           Description of role
     content:
-      - layout: left
+      - layout: right
         title: Conservation Metrics, Inc.
         sub_title: Acoustic Data Analyst
         caption: June 2017 – June 2020
