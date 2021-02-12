@@ -62,8 +62,7 @@ content:
           Short description of the company (optional)
         description: |
           Description of role
-    content:
-      - layout: right
+      - layout: left
         title: Conservation Metrics, Inc.
         sub_title: Acoustic Data Analyst
         caption: June 2017 – June 2020
