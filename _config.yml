@@ -18,10 +18,6 @@ website: nickgon.tech
 # Dark Mode (true/false/never)
 darkmode: never
 
-# Social links
-twitter_username: gondek_n
-github_username: GondekNP
-
 # Additional icon links
 additional_links:
 - title: Civic Tech 101 Podcast
@@ -32,7 +28,7 @@ additional_links:
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "G-19WYMWBG3Q"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
