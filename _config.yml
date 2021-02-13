@@ -1,6 +1,6 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
@@ -58,13 +58,14 @@ content:
         sub_title: Master of Science, Computational Analysis of Public Policy
         location: Markets and Regulation Certificate
         caption: Expected Graduation June 2022
-        description: | # this will include new lines to allow paragraphs
-	        Relevant Coursework - Machine Learning, Advanced Statistics I and II, Program Evaluation, Intermediate Microeconomics, Applied Computer Science I and II, Databases for Public Policy
+        description: Relevant Coursework - Machine Learning, Advanced Statistics I and II, Program Evaluation, Intermediate Microeconomics, Applied Computer Science I and II, Databases for Public Policy
       - layout: top-left
         title: The University of Minnesota
         sub_title: Bachelors of Science, Dual Major in (1) Fisheries, Wildlife Conservation Biology and (2) Env. Sciences, Policy and Management                          
         location: Magna Cum Laude
         caption: September 2012 - June 2016
+        description: Relevant Coursework - Machine Learning, Advanced Statistics I and II, Program Evaluation, Intermediate Microeconomics, Applied Computer Science I and II, Databases for Public Policy
+
   - title: Experience
     layout: list
     content:
