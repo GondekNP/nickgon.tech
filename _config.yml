@@ -16,7 +16,7 @@ website: nickgon.tech
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 twitter_username: gondek_n
@@ -45,7 +45,7 @@ content:
     layout: list
     content:
       - layout: right
-        image: images/HeadShot.png
+        image: images/CAPP.png
         title: The University of Chicago
         sub_title: Master of Science, Computational Analysis of Public Policy
         location: Markets and Regulation Certificate
