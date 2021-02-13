@@ -53,7 +53,7 @@ content:
         description: |
         Expected Graduation June 2022
         - Select Coursework
-          - *Statistics*: Machine Learning, Advanced Statistics I and II, Program Evaluation, Intermediate Microeconomics, Applied Computer Science I and II, Databases for Public Policy
+        - *Statistics*: Machine Learning, Advanced Statistics I and II, Program Evaluation, Intermediate Microeconomics, Applied Computer Science I and II, Databases for Public Policy
       - layout: left
         image: images/MINN.png
         title: The University of Minnesota
