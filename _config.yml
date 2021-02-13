@@ -33,7 +33,27 @@ gtag: "UA-189706008-1"
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/HeadShot.png
-about_content: |- # this will include new lines to allow paragraphs
+about_content: |
+  When emergent technology radically changes the way we live and work, how can we ensure that everyone gets
+  a piece of the bigger, more efficient pie? After working as a field biologist, I helped automate
+  wildlife monitoring so that managers and conservation groups could gain more insight with less
+  money - but it made me realize that, absent a forward-thinking policy agenda that gives displaced
+  workers a dignified livelihood, these disruptive technologies would be resisted at all costs.
+  
+
+  <mark>I believe that through evidence-based labor, industrial, and tech policy iniatives, we can build a society that
+  works for us all; one that is well adapted to address the grand challenges of the 21st century.</mark> 
+
+
+  During my first six months with UChicago's CAPP Program, I have gotten involved with the following:
+    - Assisting with a project on the spread of misinformation on Reddit with the [Amyoli Internet Research Lab](https://airlab.cs.uchicago.edu/research/), headed by [Marshini Chetty](https://airlab.cs.uchicago.edu/people/)
+    - Serving as Director of Partnerships for [HarrisTech](https://uchicago.presence.io/organization/harristech), a UChicago student organization devoted to tech policy
+    - Interviewing guests such as [Alex Engler](https://www.brookings.edu/experts/alex-engler/) (from the Brookings Institute and Georgetown University) on private alogorithm use, and the challenges to its regulation and oversight, for the [Civic Tech 101 Podcast](https://open.spotify.com/episode/52hBTS36m1tMzhYorwkQBJ).
+    - Co-organized and moderated a panel on ['The Great Deplatforming' of Donald Trump](https://twitter.com/UChicagoCAPP/status/1354188362672910339), and its implications for Section 230 and Content Moderation, with the following guests:
+      - [_Amy Bruckman_](https://www.cc.gatech.edu/~asb/), Professor and Associate Chair of the School of Interactive Computing at Georgia Tech
+      - [_Shagun Jhaver_](https://shagunjhaver.com/), Postdoctoral Scholar in the Allen School of Computer Science & Engineering at the University of Washington and Affiliate at the Berkman Klein Center for Internet & Society at Harvard University
+      - [_Randy Picker_](https://www.law.uchicago.edu/faculty/picker), James Parker Hall Distinguished Service Professor of Law at the University of Chicago
+      - [_Phil Stupak_](https://professional.uchicago.edu/find-your-fit/professional-education/cybersecurity-and-governance/instructors), Fellow at Harris Cyber Policy Initiative and Adjunct Lecturer at University of Chicago Graham School
   
 
 content:
