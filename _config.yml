@@ -50,7 +50,10 @@ content:
         sub_title: Master of Science, Computational Analysis of Public Policy
         location: Markets and Regulation Certificate
         caption: Expected Graduation June 2022
-        description: Select Coursework - Machine Learning, Advanced Statistics I and II, Program Evaluation, Intermediate Microeconomics, Applied Computer Science I and II, Databases for Public Policy
+        description: |+ 
+        ** Expected Graduation June 2022**
+        - Select Coursework
+          - _Statistics_: Machine Learning, Advanced Statistics I and II, Program Evaluation, Intermediate Microeconomics, Applied Computer Science I and II, Databases for Public Policy
       - layout: left
         image: images/MINN.png
         title: The University of Minnesota
@@ -73,7 +76,7 @@ content:
         caption: Dec 2020 - Present
         link: polsky.uchicago.edu/tech-commercialization
         quote: >
-          "The University of Chicago Polsky Center Technology Commercialization Office manages the intellectual property rights of the University and enables its innovative research to spur novel businesses and business ventures."
+          "The University of Chicago Polsky Center Technology Commercialization Office manages the intellectual property rights of the University and enables its innovative research to spur novel businesses and commercial ventures."
         description: |
           - Advises on database management best practices and provides consult on the effective transfer of Polsky's intellectual property, business, and contact information to new database software.  
           - Manages a variety of data cleanup projects crucial to the long-term effective function of the Technology Commercial Office's business activities.
