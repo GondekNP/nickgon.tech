@@ -10,7 +10,7 @@ name: Nick Gondek
 title: MS Candidate, UChicago Computational Analysis of Public Policy
 email: npg@uchicago.edu
 # email_title: Email (Email title override)
-phone: (414) 581-4445
+phone: (414) 581 - 4445
 # phone_title: Phone (Phone title override)
 website: nickgon.tech
 # website_title: Web (Website title override)
@@ -25,7 +25,7 @@ github_username:  GondekNP
 # Additional icon links
 additional_links:
 - title: Civic Tech 101 Podcast
-  icon: images/microphone-alt-solid.svg
+  icon: images/microphone-alt-solid.ico
   url: https://open.spotify.com/show/0lTfBmiA770Fq604hmcK7T?si=1CNYFqqiRNKcGllAuIIPRA
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
