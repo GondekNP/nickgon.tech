@@ -25,11 +25,8 @@ github_username:  GondekNP
 # Additional icon links
 additional_links:
 - title: Civic Tech 101 Podcast
-  icon: images/microphone-alt-solid.ico
+  icon: images/microphone-alt-solid.png
   url: https://open.spotify.com/show/0lTfBmiA770Fq604hmcK7T?si=1CNYFqqiRNKcGllAuIIPRA
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -40,26 +37,20 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/HeadShot.png
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+about_content: |- # this will include new lines to allow paragraphs
+   'placeholder'
 
 content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: right
         title: The University of Chicago
         sub_title: Master of Science, Computational Analysis of Public Policy
         location: Markets and Regulation Certificate
         caption: Expected Graduation June 2022
         description: Select Coursework - Machine Learning, Advanced Statistics I and II, Program Evaluation, Intermediate Microeconomics, Applied Computer Science I and II, Databases for Public Policy
-      - layout: top-left
+      - layout: left
         title: The University of Minnesota
         sub_title: Bachelors of Science, Dual Major in (1) Fisheries, Wildlife Conservation Biology and (2) Env. Sciences, Policy and Management                          
         location: Magna Cum Laude
