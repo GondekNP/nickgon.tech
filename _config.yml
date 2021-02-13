@@ -91,6 +91,7 @@ content:
           - Managed Unix-based network attached storage system of 200+ terabytes of data.
       - layout: right
         title: Hawaii V.I.N.E. Project
+        image: images/VINE.png
         sub_title: Avian Research Technician
         location: Oahu, HI
         caption: October 2016 – April 2017 
