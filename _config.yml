@@ -60,9 +60,11 @@ content:
         caption: December 2020 - Present
         link: polsky.uchicago.edu/tech-commercialization
         quote: >
-          Short description of the company (optional)
+          "The University of Chicago Polsky Center Technology Commercialization Office manages the intellectual property rights of the University and enables its innovative research to create new companies and business ventures."
         description: |
-          Description of role
+          - Advises on database management best practices and provides consult on the effective transfer of Polsky's intellectual property, business, and contact information to new database software.  
+          - Manages a variety of data cleanup projects crucial to the long-term effective function of the Technology Commercial Office's business activities.
+          - Reads and researches intellectual property data whilst mantaining security and confidentiality of highly sensitive information. 
       - layout: left
         title: Conservation Metrics, Inc.
         sub_title: Acoustic Data Analyst
@@ -79,7 +81,7 @@ content:
       - layout: right
         title: Fieberg Research Lab
         sub_title: Honors Researcher
-        caption: St Paul, MN
+        location: St Paul, MN
         caption: August 2015 – September 2020 
         link: fieberg-lab.cfans.umn.edu
         quote: >
@@ -91,7 +93,7 @@ content:
       - layout: left
         title: Montana Wildlife Cooperative Research Unit
         sub_title: Avian Research Technician
-        caption: Coconino National Forest, AZ
+        location: Coconino National Forest, AZ
         caption: May 2015 – August, 2015 and 2016
         link: umt.edu/mcwru/MartinLab
         quote: >
