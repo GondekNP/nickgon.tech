@@ -1,6 +1,6 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-favicon: images/microphone-alt-solid.ico
+# favicon: images/microphone-alt-solid.ico
 
 # Content configuration version
 version: 2
@@ -20,12 +20,12 @@ darkmode: true
 
 # Social links
 twitter_username: gondek_n
-github_username:  GondekNP
+github_username: GondekNP
 
 # Additional icon links
 additional_links:
 - title: Civic Tech 101 Podcast
-  icon: images/microphone-alt-solid.png
+  icon: images/microphone-alt-solid.ico
   url: https://open.spotify.com/show/0lTfBmiA770Fq604hmcK7T?si=1CNYFqqiRNKcGllAuIIPRA
 
 # Google Analytics and Tag Manager
@@ -38,7 +38,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/HeadShot.png
 about_content: |- # this will include new lines to allow paragraphs
-   'placeholder'
+  After first participating in wik
 
 content:
   - title: Education
@@ -81,10 +81,10 @@ content:
         quote: >
           "Conservation Metrics provides automated alternatives to historically labor-intensive wildlife survey efforts, combining cutting-edge remote sensing technology, statistical rigor, and extensive scientific expertise to drive down costs and increase the scale and effectiveness of wildlife metrics."
         description: | 
-          - Implemented machine learning approaches (convolutional and deep neural networks) to process data from remote detectors; including microphones, cameras, drones, and satellites
-          - Led in ingestion, analysis, and interpretation of data for frequency of target biological signals in R, Matlab, Python using git-based workflow
-          -	Collaborated with global clients to interpret results for initiatives including invasive rat eradication on Hawadax, novel bat detection in Guinea, comparative methodology studies in northern CA, often developing new strategies to cope with unexpected challenges
-          - Managed Unix-based network attached storage system of 200+ terabytes of data
+          - Implemented machine learning approaches (convolutional and deep neural networks) to process data from remote detectors; including microphones, cameras, drones, and satellites.
+          - Led in ingestion, analysis, and interpretation of data for frequency of target biological signals in R, Matlab, Python using git-based workflow.
+          -	Collaborated with global clients to interpret results for initiatives including invasive rat eradication on Hawadax, novel bat detection in Guinea, comparative methodology studies in northern CA, often developing new strategies to cope with unexpected challenges.
+          - Managed Unix-based network attached storage system of 200+ terabytes of data.
       - layout: right
         title: Hawaii V.I.N.E. Project
         sub_title: Avian Research Technician
@@ -94,9 +94,9 @@ content:
         quote: >
           "The Hawaii V.I.N.E. (Vertebrate Introductions and Novel Ecosystems) Project investigates seed dispersal on Oahu to identify management priorities for local conservation organizations."
         description: | 
-          - Captured target passerine species for the purpose of fecal sampling, radio transmitter fixing, and banding
-          - Tracked adult and juvenile birds by way of radiotelemetry and obtained behavioral observations
-          - Sampled invasive and native vegetation for abundance, distribution and phenological activity
+          - Captured target passerine species for the purpose of fecal sampling, radio transmitter fixing, and banding.
+          - Tracked adult and juvenile birds by way of radiotelemetry and obtained behavioral observations.
+          - Sampled invasive and native vegetation for abundance, distribution and phenological activity.
           -	Participated in outreach events with Oahu area students, ranging from 9 to 18 years of age.
       - layout: left
         title: Fieberg Research Lab
@@ -107,9 +107,9 @@ content:
         quote: >
           "The Fieberg Lab helps widlife biologists make robust statistical inferences when confronted with a variety of messy data situations."
         description: | 
-          - Completed an original research project investigating effects of subsampling genetic mark-recapture data using spatially-explicit capture recapture models in R and Program MARK
-          - Authored a reproducible honors thesis document using RMarkdown and LaTeX
-          -	Presented findings to the Minnesota Chapter of the Wildlife Society in Mankato, MN
+          - Completed an original research project investigating effects of subsampling genetic mark-recapture data using spatially-explicit capture recapture models in R and Program MARK.
+          - Authored a reproducible honors thesis document using RMarkdown and LaTeX.
+          -	Presented findings to the Minnesota Chapter of the Wildlife Society in Mankato, MN.
       - layout: right
         title: Montana Wildlife Cooperative Research Unit
         sub_title: Avian Research Technician
@@ -119,9 +119,9 @@ content:
         quote: >
           "Dr. Martin researches avian behavior to gain an understanding on the ecology and evolution of phenotypic traits that are important to conservation."
         description: | 
-          - Captured target passerines of the Coconino National Forest for a 25+ year life history study and a 4+ year metabolic expenditure study along with a team of 30+ researchers
-          - Collaborated with graduate students and principal investigator to gather blood samples, morphological measurements, radio-telemetry based locations, among others 
-          -	Transferred data to centralized location each day, processing blood samples into plasma and checking obtained data for mistakes or inconsistencies 
+          - Captured target passerines of the Coconino National Forest for a 25+ year life history study and a 4+ year metabolic expenditure study along with a team of 30+ researchers.
+          - Collaborated with graduate students and principal investigator to gather blood samples, morphological measurements, radio-telemetry based locations, among others.
+          -	Transferred data to centralized location each day, processing blood samples into plasma and checking obtained data for mistakes or inconsistencies.
 
   - title: Communication # Title for the section
     layout: list # Type of content section (list/text)
