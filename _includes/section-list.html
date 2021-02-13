@@ -3,7 +3,7 @@
     {%- if item.image -%}
       <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
         <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-          <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})"></span>
+          <span class="profile-img" style="background-image: url({{ link.image | relative_url }})"></span>
         </div>
     </div>
     {%- endif -%}

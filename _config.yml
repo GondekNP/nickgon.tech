@@ -45,6 +45,7 @@ content:
     layout: list
     content:
       - layout: right
+        image: images/HeadShot.png
         title: The University of Chicago
         sub_title: Master of Science, Computational Analysis of Public Policy
         location: Markets and Regulation Certificate
