@@ -52,6 +52,7 @@ content:
         caption: Expected Graduation June 2022
         description: Select Coursework - Machine Learning, Advanced Statistics I and II, Program Evaluation, Intermediate Microeconomics, Applied Computer Science I and II, Databases for Public Policy
       - layout: left
+        image: images/MINN.png
         title: The University of Minnesota
         sub_title: Bachelors of Science, Dual Major in (1) Fisheries, Wildlife Conservation Biology and (2) Env. Sciences, Policy and Management                          
         location: Magna Cum Laude
