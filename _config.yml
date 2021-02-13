@@ -50,6 +50,17 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Institution name
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: Date Range (eg. 2016 - 2019)
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
   - title: Experience
     layout: list
     content:
@@ -60,7 +71,7 @@ content:
         caption: December 2020 - Present
         link: polsky.uchicago.edu/tech-commercialization
         quote: >
-          "The University of Chicago Polsky Center Technology Commercialization Office manages the intellectual property rights of the University and enables its innovative research to create new companies and business ventures."
+          "The University of Chicago Polsky Center Technology Commercialization Office manages the intellectual property rights of the University and enables its innovative research to spur novel businesses and business ventures."
         description: |
           - Advises on database management best practices and provides consult on the effective transfer of Polsky's intellectual property, business, and contact information to new database software.  
           - Manages a variety of data cleanup projects crucial to the long-term effective function of the Technology Commercial Office's business activities.
@@ -68,7 +79,7 @@ content:
       - layout: left
         title: Conservation Metrics, Inc.
         sub_title: Acoustic Data Analyst
-        caption: Santa Cruz, CA
+        location: Santa Cruz, CA
         caption: June 2017 – June 2020
         link: conservationmetrics.com
         quote: >
@@ -79,6 +90,19 @@ content:
           -	Collaborated with global clients to interpret results for initiatives including invasive rat eradication on Hawadax, novel bat detection in Guinea, comparative methodology studies in northern CA, often developing new strategies to cope with unexpected challenges
           - Managed Unix-based network attached storage system of 200+ terabytes of data
       - layout: right
+        title: Hawaii V.I.N.E. Project
+        sub_title: Avian Research Technician
+        location: Oahu, HI
+        caption: October 2016 – April 2017 
+        link: fieberg-lab.cfans.umn.edu
+        quote: >
+          "The Hawaii V.I.N.E. (Vertebrate Introductions and Novel Ecosystems) Project investigates seed dispersal on Oahu to identify management priorities for local conservation organizations."
+        description: | 
+          - Captured target passerine species for the purpose of fecal sampling, radio transmitter fixing, and banding
+          - Tracked adult and juvenile birds by way of radiotelemetry and obtained behavioral observations
+          - Sampled invasive and native vegetation for abundance, distribution and phenological activity
+          -	Participated in outreach events with Oahu area students, ranging from 9 to 18 years of age.
+      - layout: left
         title: Fieberg Research Lab
         sub_title: Honors Researcher
         location: St Paul, MN
@@ -90,7 +114,7 @@ content:
           - Completed an original research project investigating effects of subsampling genetic mark-recapture data using spatially-explicit capture recapture models in R and Program MARK
           - Authored a reproducible honors thesis document using RMarkdown and LaTeX
           -	Presented findings to the Minnesota Chapter of the Wildlife Society in Mankato, MN
-      - layout: left
+      - layout: right
         title: Montana Wildlife Cooperative Research Unit
         sub_title: Avian Research Technician
         location: Coconino National Forest, AZ
@@ -103,17 +127,6 @@ content:
           - Collaborated with graduate students and principal investigator to gather blood samples, morphological measurements, radio-telemetry based locations, among others 
           -	Transferred data to centralized location each day, processing blood samples into plasma and checking obtained data for mistakes or inconsistencies 
 
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
   - title: Communication # Title for the section
     layout: list # Type of content section (list/text)
     content:
