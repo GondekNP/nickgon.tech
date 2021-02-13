@@ -18,11 +18,11 @@ website: nickgon.tech
 # Dark Mode (true/false/never)
 darkmode: never
 
-# Additional icon links
-additional_links:
-- title: Civic Tech 101 Podcast
-  icon: images/microphone-alt-solid.ico
-  url: https://open.spotify.com/show/0lTfBmiA770Fq604hmcK7T?si=1CNYFqqiRNKcGllAuIIPRA
+# # Additional icon links
+# additional_links:
+# - title: Civic Tech 101 Podcast
+#   icon: images/microphone-alt-solid.ico
+#   url: https://open.spotify.com/show/0lTfBmiA770Fq604hmcK7T?si=1CNYFqqiRNKcGllAuIIPRA
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
