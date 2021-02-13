@@ -63,6 +63,7 @@ content:
     layout: list
     content:
       - layout: right
+        image: images/polsky.png
         title: Polsky Center Technology Commercialization Office
         sub_title: Database Consultant
         location: Chicago, IL (Remote)
