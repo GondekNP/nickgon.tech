@@ -51,16 +51,16 @@ content:
         location: Markets and Regulation Certificate
         caption: Expected Graduation June 2022
         description: |
-        ** Expected Graduation June 2022**
+        Expected Graduation June 2022
         - Select Coursework
-          - _Statistics_: Machine Learning, Advanced Statistics I and II, Program Evaluation, Intermediate Microeconomics, Applied Computer Science I and II, Databases for Public Policy
+          - *Statistics*: Machine Learning, Advanced Statistics I and II, Program Evaluation, Intermediate Microeconomics, Applied Computer Science I and II, Databases for Public Policy
       - layout: left
         image: images/MINN.png
         title: The University of Minnesota
         sub_title: Bachelors of Science, Dual Major in (1) Fisheries, Wildlife Conservation Biology and (2) Env. Sciences, Policy and Management                          
         location: Magna Cum Laude
         caption: September 2012 - June 2016
-        description: |+
+        description: |
           Select Coursework - 
           Biometrics, Mathematical Models of Biological Systems, Honors Financial Reporting,
           Geographical Information Systems, Microeconomics for Natural Resource Management
