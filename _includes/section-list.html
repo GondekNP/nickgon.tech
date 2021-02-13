@@ -1,17 +1,12 @@
 {% for item in include.content %}
   <div class="row clearfix layout layout-{{item.layout | default: 'left'}}">
-    <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
-        <h4>{{ item.title }}</h4>
-        {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
-        {%- if item.location -%}<p>{{ item.location }}</p>{%- endif -%}
-        {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
-  
-        {%- if item.link -%}
-          {% include a.html href=item.link class="link" %}
-            {%- if item.link_text -%}{{ item.link_text }}{%- else -%}{{ item.link }}{%- endif -%}
-          </a>
-        {%- endif -%}
+    {%- if item.image -%}
+      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
+        <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})"></span>
+        </div>
     </div>
+    {%- endif -%}
     <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
       <h4>{{ item.title }}</h4>
       {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
