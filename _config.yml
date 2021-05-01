@@ -64,8 +64,9 @@ content:
     layout: text 
     content: |
        -  *Data Analysis and Visualization* : R (Shiny, ggplot2), Matlab, Python (SciKit-Learn, pandas, matplotlib), Stata
-       -  *Reproducibility and Data Pipeline* : Git/Github, SQL, NoSQL, Unix, MS Azure, AWS 
-       -  *Mapping and Spatial Analysis* : QGIS/PyQGIS, ArcMap 
+       -  *Reproducibility and Data Pipeline* : Git/Github, Unix, MS Azure, AWS
+       -  *Database Management* : PostgreSQL, MySQL, NoSQL, SQLite, Intium/Minuet, AirTable
+       -  *Mapping and Spatial Analysis* : QGIS/PyQGIS, ArcMap
        -  *Document Preparation* : MS Office Suite, YAML, RMarkdown, Pandoc, LaTeX 
 
   - title: Education
