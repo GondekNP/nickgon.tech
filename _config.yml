@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: 
 # favicon: images/microphone-alt-solid.ico
 
 # Content configuration version
@@ -49,8 +49,10 @@ content:
   - title: Activities
     layout: text
     content: |
-      During my first six months with [UChicago's CAPP Program](https://capp.uchicago.edu/), I have gotten involved with the following:
-      - Assisting with a project on the spread of misinformation on Reddit with the [Amyoli Internet Research Lab](https://airlab.cs.uchicago.edu/research/), headed by [Marshini Chetty](https://airlab.cs.uchicago.edu/people/)
+      During my first eight months with [UChicago's CAPP Program](https://capp.uchicago.edu/), I have gotten involved with the following:
+      - Winning the 2021 Insitute of Politics Ideathon's *Most Impact* award and tying for *Most Creative* award for a presentation on "The Data Commons: Data to the People: Closing the Information Gap for Policymakers", with fellow HarrisTech board members _Adam Leader-Smith_ and _Marc Richardson_
+      - Writing in the Chicago Policy Review's [Technology Policy section](https://chicagopolicyreview.org/category/technology/), with my first article, "Fueled by the COVID-19 Pandemic, are GrubHub and DoorDash the next vertical monopolists?" to be published shortly
+      - Assisting with a project on the effects of Reddit quarantines on user toxicity and recruitment with the [Amyoli Internet Research Lab](https://airlab.cs.uchicago.edu/research/), headed by [Marshini Chetty](https://airlab.cs.uchicago.edu/people/)
       - Serving as Director of Partnerships for [HarrisTech](https://uchicago.presence.io/organization/harristech), a UChicago student organization devoted to tech policy
       - Interviewing guests such as [Alex Engler](https://www.brookings.edu/experts/alex-engler/) (from the Brookings Institute and Georgetown University) on private alogorithm use, and the challenges to its regulation and oversight, for the [Civic Tech 101 Podcast](https://open.spotify.com/episode/52hBTS36m1tMzhYorwkQBJ)
       - Co-organized and moderated a panel on ['The Great Deplatforming' of Donald Trump](https://twitter.com/UChicagoCAPP/status/1354188362672910339), and its implications for Section 230 and Content Moderation, with the following guests:
@@ -110,7 +112,7 @@ content:
         description: |
           - Advises on database management best practices and provides consult on the effective transfer of Polsky's intellectual property, business, and contact information to new database software.  
           - Manages a variety of data cleanup projects crucial to the long-term effective function of the Technology Commercial Office's business activities.
-          - Performs high-level administrative duties whilst mantaining security and confidentiality of highly sensitive information. 
+          - Performs high-level administrative duties whilst maintaining security and confidentiality of highly sensitive information. 
           
       - layout: left
         image: images/CMI.png
